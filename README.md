@@ -11,6 +11,7 @@ Here are some ideas to get you started: -->
 - 🤔 I’m looking for help with **Java** 
 - 💬 Ask me about C, Python
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Connect with me:**
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[instagram].svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[#D14836].svg" />
 
