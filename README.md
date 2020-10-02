@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning everything as much as I can..😉 
 
 - 🤔 Finally I am serious with respect to programming..!
-- 💬 Ask me about C, Python
+- 💬 Ask me about C, Python, R 
 
 **Connect with me:**
 
