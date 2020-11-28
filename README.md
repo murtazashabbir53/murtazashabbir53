@@ -14,11 +14,11 @@ Here are some ideas to get you started: -->
 **Connect with me:**
 
 <a href="murtazshabbir786@gmail.com">
-  <img align="left" alt="Murtaza's Gmail" width="22px" src="https://img.icons8.com/ios-filled/2x/gmail.png" />
+  <img align="left" alt="Gmail Id of Murtaza" width="22px" src="https://img.icons8.com/ios-filled/2x/gmail.png" />
 </a>
 
 <a href="https://www.instagram.com/azatrum_366/">
-  <img align="left" alt="Murtaza's Instagram" width="22px" src="https://img.icons8.com/ios-filled/2x/instagram.svg" />
+  <img align="left" alt="Insta Id of Murtaza" width="22px" src="https://img.icons8.com/ios-filled/2x/instagram.svg" />
 </a>
 <br/><br/>
 
