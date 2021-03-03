@@ -17,9 +17,8 @@ Here are some ideas to get you started: -->
   <img align="left" alt="Gmail Id of Murtaza" width="22px" src="https://img.icons8.com/ios-filled/2x/gmail.png" />
 </a>
 
-<a href="https://www.instagram.com/azatrum_366/">
-  <img align="left" alt="Insta Id of Murtaza" width="22px" src="https://img.icons8.com/ios-filled/2x/instagram.svg" />
-</a>
+<a href="https://www.instagram.com/azatrum_1252/">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/instagram/instagram.png" alt="insta" width="40" height="40"/>
 <br/><br/>
 
 
