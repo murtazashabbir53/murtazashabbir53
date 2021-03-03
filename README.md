@@ -18,7 +18,7 @@ Here are some ideas to get you started: -->
 </a>
 
 <a href="https://www.instagram.com/azatrum_1252/">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/instagram/instagram.png" alt="insta" width="40" height="40"/>
+  <img src="https://images.app.goo.gl/nmtvxtmeGURFNC2o8" alt="insta" width="40" height="40"/>
 <br/><br/>
 
 
