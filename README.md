@@ -20,6 +20,12 @@ Here are some ideas to get you started: -->
 <a href="https://www.instagram.com/azatrum_1252/">
   <img align="left" alt="Murtazas Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
+<a href="<a href="https://www.linkedin.com/in/murtaza-shabbir-710b1a200/">
+  <img align="left" alt="Faizan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>">
+  <img align="left" alt="Murtazas LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 <br/><br/>
 
 
