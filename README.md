@@ -50,4 +50,10 @@ Here are some ideas to get you started: -->
   <!--<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </p>-->
 
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtazashabbir53&layout=compact&hide=html" alt="murtazashabbir53" /></p>
+<br/>
+<p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=murtazashabbir53&show_icons=true alt=murtazashabbir53 /> </p>
+
+
+
 
