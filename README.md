@@ -45,8 +45,3 @@ Here are some ideas to get you started: -->
 </p>-->
 
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtazashabbir53&layout=compact&hide=html" alt="murtazashabbir53" /></p>
-<br/>
-<p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=murtazashabbir53&show_icons=true alt=murtazashabbir53 /> </p>
-
-
