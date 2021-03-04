@@ -18,7 +18,8 @@ Here are some ideas to get you started: -->
 </a>
 
 <a href="https://www.instagram.com/azatrum_1252/">
-  <img src="https://images.app.goo.gl/nmtvxtmeGURFNC2o8" alt="insta" width="40" height="40"/>
+  <img align="left" alt="Faizan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 <br/><br/>
 
 
