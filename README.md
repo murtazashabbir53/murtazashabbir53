@@ -13,12 +13,12 @@ Here are some ideas to get you started: -->
 
 **Connect with me:**
 
-<a href="livingbeing_786@outlook.com">
+<a href="murtazshabbir786@gmail.com">
   <img align="left" alt="'mail Id" width="22px" src="https://img.icons8.com/ios-filled/2x/gmail.png" />
 </a>
 
 <a href="https://www.instagram.com/allboutweb.dev/">
-  <img align="left" alt="Murtazas Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Murtaza's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br/>
