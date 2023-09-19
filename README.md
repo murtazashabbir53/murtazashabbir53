@@ -1,4 +1,4 @@
-### Hi, My Self Murtaza ! 👋
+### Hi, My Self Murtaza Shabbir ! 👋
 
 <!--
 **murtazashabbir53/murtazashabbir53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
@@ -6,8 +6,8 @@
 Here are some ideas to get you started: -->
 
 
-- 🌱 Developing...
-
+- 🌱 Developing... & Deploying stuff... 
+Hello programmers!
 
 
 
